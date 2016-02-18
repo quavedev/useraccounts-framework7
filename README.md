@@ -1,5 +1,5 @@
 [![Meteor Icon](http://icon.meteor.com/package/quave:useraccounts-framework7)](https://atmospherejs.com/quave/useraccounts-framework7)
-[![Build Status](https://travis-ci.org/meteor-useraccounts/materialize.svg?branch=master)](https://travis-ci.org/meteor-useraccounts/materialize)
+[![Build Status](https://travis-ci.org/qua-ve/useraccounts-framework7.svg?branch=master)](https://travis-ci.org/qua-ve/useraccounts-framework7)
 
 # quave:useraccounts-framework7
 
