@@ -63,7 +63,7 @@ Package.on_use(function(api, where) {
     'lib/at_title.html',
     'lib/at_title.js',
     'lib/full_page_at_form.html',
-    'lib/at_materialize.css',
+    'lib/at_framework7.css',
   ], ['client']);
 });
 

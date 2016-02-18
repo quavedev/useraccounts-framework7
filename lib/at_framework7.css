@@ -1,62 +1,91 @@
-.at-social-btn,
+.at-btn.social,
 .at-btn.submit {
-  min-width: 100%;
+    min-width: 100%;
 }
+
+.at-row.social {
+    margin-bottom: 5px;
+}
+
+.at-icon.social {
+    padding-right: 15px;
+}
+
 #at-facebook {
-  background: #3B5998;
-  color: #fff;
+    background: #3B5998;
+    color: #fff;
 }
+
 #at-facebook.disabled {
-  color: #ddd;
-  background: #666666;
+    color: #ddd;
+    background: #666666;
 }
+
 #at-facebook:hover {
-  background: #2C4780;
+    background: #2C4780;
 }
+
 #at-linkedin {
-  background: #338AB0;
-  color: #fff;
+    background: #338AB0;
+    color: #fff;
 }
+
 #at-linkedin.disabled {
-  color: #ddd;
-  background: #666666;
+    color: #ddd;
+    background: #666666;
 }
+
 #at-linkedin:hover {
-  background: #0571A6;
+    background: #0571A6;
 }
+
 #at-twitter {
-  background: #4099FF;
-  color: #fff;
+    background: #4099FF;
+    color: #fff;
 }
+
 #at-twitter.disabled {
-  color: #ddd;
-  background: #666666;
+    color: #ddd;
+    background: #666666;
 }
+
 #at-twitter:hover {
-  background: #3288EB;
+    background: #3288EB;
 }
+
 #at-google {
-  background: #db5a3c;
-  color: #fff;
+    background: #db5a3c;
+    color: #fff;
 }
+
 #at-google.disabled {
-  color: #ddd;
-  background: #666666;
+    color: #ddd;
+    background: #666666;
 }
+
 #at-google:hover {
-  background: #CA4C2E;
+    background: #CA4C2E;
 }
+
 #at-github {
-  background: #666;
-  color: #fff;
+    background: #666;
+    color: #fff;
 }
+
 #at-github.disabled {
-  color: #ddd;
-  background: #666666;
+    color: #ddd;
+    background: #666666;
 }
+
 #at-github:hover {
-  background: #555;
+    background: #555;
 }
+
 .at-input.validating * {
-  cursor: progress;
+    cursor: progress;
+}
+
+.list-block-no-margin {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
 }

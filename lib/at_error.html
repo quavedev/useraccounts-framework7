@@ -1,0 +1,11 @@
+<template name="atError">
+    <div class="at-error card">
+        <div class="card-content">
+            <div class="card-content-inner">
+                {{#each error}}
+                <span class=""><i class='fa fa-exclamation-triangle'></i> {{errorText}}</span><br>
+                {{/each}}
+            </div>
+        </div>
+    </div>
+</template>
